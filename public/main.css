@@ -1,0 +1,18 @@
+#file-input {
+  display: none;
+
+}
+
+.custom-file-upload {
+    border: 2px solid #ccc;
+    padding: 6px 12px;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 50vw;
+    height: 50vh;
+    justify-content: center;
+}
+
+#camera {
+  height: 100vh;
+}
